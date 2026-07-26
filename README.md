@@ -2,7 +2,7 @@
   <p>
   Netflix website created by Fruntend Developer 
     <b>
-      <u style="fontsize: 50px;">Kartik Nama</u>
+      <u>Kartik Nama</u>
     </b>
   </p>
 </h1>
